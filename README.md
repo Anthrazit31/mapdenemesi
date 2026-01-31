@@ -1,1 +1,1 @@
-[Original Content](https://skyrossm.github.io/np-gangmap/)
+[Original Content](https://github.com/skyrossm/np-gangmap)
